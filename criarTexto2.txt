@@ -1,5 +1,4 @@
 Arquivo de texto para praticar github
 
--am 
-
- 
+<<<<<<< HEAD
+-am
